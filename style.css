@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&family=PT+Serif:wght@700&display=swap');
+html{
+background-color: #7700ff
+}
+h1{
+  font-family: "Noto Sans KR";
+  font-size: 45pt
+}
